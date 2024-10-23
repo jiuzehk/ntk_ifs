@@ -1,3 +1,3 @@
 install:
-  - FILE="-Dfile=ntkifs-1.10.aar"
-  - mvn install:install-file $FILE -DgroupId=com.poly -DartifactId=ntkifs -Dversion=1.10 -Dpackaging=aar -DpomFile=pom.xml
+  - FILE="-Dfile=ntkifs-1.11.aar"
+  - mvn install:install-file $FILE -DgroupId=com.poly -DartifactId=ntkifs -Dversion=1.11 -Dpackaging=aar -DpomFile=pom.xml
